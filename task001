@@ -1,0 +1,24 @@
+<html>
+<head>
+	<title>Welcome to No.14 Middle School</title>
+</head>
+<body>
+	<img src='XXX.jpg' alt='School Children'>
+	<h1>Tips for Enjoying to help you better enjoy your stay in Webville.</h1>
+	<h3>Great places you've been seen it</h3>
+	<p>Here are a few tips to help you better enjoy your stay in Webville.
+		<ul>
+			<li>Always dress in layers and keep an html around your head and body.</li>
+			<li>Get plenty of rest while you're here, sleep helps all those rules sink in.</li>
+			<li>Don't miss hte work of our local artists right downtown in the css gallery.</li>
+		</ul>
+	</p>
+	<p>
+		Having problems? You can always find answers at <a href="http://www.baidu.com"><em>Head First Labs<em></a>.
+		Still got problems? Relas, webville's a friendly place, just ask someone for help. And, as local used to say:
+	</p>
+	<blockquote>
+		Don't worry. As long as you hit that wire with the connecting hook at precisely 88mph the instant the lighting strikes the tower...everything will be fine.
+	</blockquote>
+</body>
+</html>
